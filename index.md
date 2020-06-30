@@ -9,3 +9,6 @@ Diese lernt er aber im laufe der Geschichte. Er ist sehr groß.
 * Er mag keine Vögel
 * Er ist Physiker
 * Er mag keine Ingenieure 
+
+Wie S. Cooper sagt:
+> Bazinga!
